@@ -5,3 +5,5 @@ TARGET_URL="https://www.xiaohongshu.com/"
 
 SEARCH="旅游"
 TARGET_POST_NUMBER=30
+
+SAVE_POST="post"
